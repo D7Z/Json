@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": "CSC101",
+      "name": "Introduction to Computer Science",
+      "description": "This course introduces students to the fundamentals of computer science and programming, including algorithms, data structures, and programming languages."
+    },
+    {
+      "id": "ENG101",
+      "name": "English Composition",
+      "description": "This course teaches students the principles of effective writing, including grammar, syntax, and style."
+    },
+    {
+      "id": "MTH101",
+      "name": "College Algebra",
+      "description": "This course covers the basics of algebra, including linear and quadratic equations, inequalities, and functions."
+    },
+    {
+      "id": "PHY101",
+      "name": "General Physics",
+      "description": "This course covers the principles of mechanics, including motion, forces, and energy."
+    },
+    {
+      "id": "BIO101",
+      "name": "Introduction to Biology",
+      "description": "This course provides an overview of the principles of biology, including genetics, ecology, and evolution."
+    },
+    {
+      "id": "HIS101",
+      "name": "World History",
+      "description": "This course covers the major historical events and trends of world history from ancient times to the present."
+    },
+    {
+      "id": "ART101",
+      "name": "Introduction to Art",
+      "description": "This course introduces students to the principles of art and design, including color theory, composition, and art history."
+    },
+    {
+      "id": "ECO101",
+      "name": "Introduction to Economics",
+      "description": "This course covers the principles of economics, including supply and demand, market structures, and macroeconomic policy."
+    },
+    {
+      "id": "PSY101",
+      "name": "Introduction to Psychology",
+      "description": "This course covers the fundamentals of psychology, including cognition, perception, learning, and social psychology."
+    },
+    {
+      "id": "SOC101",
+      "name": "Introduction to Sociology",
+      "description": "This course introduces students to the principles of sociology, including social structures, institutions, and inequality."
+    },
+    {
+      "id": "PHI101",
+      "name": "Introduction to Philosophy",
+      "description": "This course covers the major philosophical traditions and concepts, including metaphysics, epistemology, and ethics."
+    },
+    {
+      "id": "CHE101",
+      "name": "General Chemistry",
+      "description": "This course provides an introduction to the principles of chemistry, including atomic and molecular structure, chemical bonding, and chemical reactions."
+    },
+    {
+      "id": "GEO101",
+      "name": "Introduction to Geography",
+      "description": "This course covers the principles of geography, including physical geography, human geography, and spatial analysis."
+    },
+    {
+      "id": "COM101",
+      "name": "Introduction to Communication",
+      "description": "This course covers the fundamentals of communication, including verbal and nonverbal communication, interpersonal communication, and public speaking."
+    },
+    {
+      "id": "MUS101",
+      "name": "Introduction to Music",
+      "description": "This course introduces students to the principles of music, including music theory, history, and appreciation."
+    },
+    {
+      "id": "ANT101",
+      "name": "Introduction to Anthropology",
+      "description": "This course covers the principles of anthropology, including cultural anthropology, physical anthropology, and archaeology."
+    }
+  ]
+}
